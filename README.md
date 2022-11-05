@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **MEARN**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sidharth-baby-sidhu/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
