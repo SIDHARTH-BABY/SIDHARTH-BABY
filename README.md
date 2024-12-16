@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently learning **Typescript,**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html) 
+- 👨‍💻 All of my projects are available at https://sidharthportfolio.netlify.app/
 
 - 💬 Ask me about **NODEJS,MONGODB,JAVASCRIPT**
 
