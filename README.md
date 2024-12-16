@@ -8,12 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript,**
+- 🌱 I’m currently learning **Typescript, Python, Langchain, LLM**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html) 
 - 👨‍💻 All of my projects are available at https://sidharthportfolio.netlify.app/
 
-- 💬 Ask me about **NODEJS,MONGODB,JAVASCRIPT**
+- 💬 Ask me about **NODEJS,MONGODB,JAVASCRIPT,REACT,AWS,NEXT,ANGULAR**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sidharth-baby-sidhu/**
 
